@@ -1,0 +1,19 @@
+{
+  "name": "ptc-creator",
+  "version": "0.0.1",
+  "description": "PTC account creator with Account Quote Exceeded delay and 2Captcha support",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeShiner/ptc-creator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeShiner/ptc-creator/issues"
+  },
+  "homepage": "https://github.com/MikeShiner/ptc-creator#readme"
+}
